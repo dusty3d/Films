@@ -6,6 +6,7 @@ Here may be found the framework for each respective Dusty3D AI film.
 
 # Explanation
 Every Dusty3D AI film uses the same constructs
+- Task log
 - Tools
 - Abstract
 - Setting description
