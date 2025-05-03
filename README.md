@@ -5,7 +5,7 @@ Blueprints
 Here may be found the framework for each respective Dusty3D AI film.
 
 # Explanation
-Every Dusty3D AI film uses the same constructs
+Dusty3D AI films use the same constructs
 - Task log
 - Tools
 - Abstract
