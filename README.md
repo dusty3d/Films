@@ -1,5 +1,5 @@
-# Blueprints
-Scripts
+# Scripts
+Blueprints
 
 # Welcome
 Here may be found the framework for each respective Dusty3D AI film.
