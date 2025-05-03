@@ -25,6 +25,7 @@ Every Dusty3D AI film uses the same constructs
 - Technical precision meets artistic vision
 
 ## How to Use
-This is the blueprint for making AI movies. It is the intention of Dusty3D Films AI to encourage the exploraion of AI cinema by providing blueprints for their evocation in the hopes of pushing the medium forward. Please feel free to use this formula and add me on social media.
+This is the blueprint for making AI movies. It is the intention of Dusty3D Films AI to encourage the exploraion of AI cinema by providing an accessible framework reference for their evocation in the hopes of pushing the medium forward. Of course, don't use my exact prompts, but feel free to use this formula as a reference and add me on all social media platforms.
 Sincerely,
-Dusty
+##
+Dusty3d Films AI
